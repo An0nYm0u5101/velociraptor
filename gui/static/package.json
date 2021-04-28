@@ -35,7 +35,7 @@
     "lodash.mergewith": "^4.6.2",
     "lodash.template": "^4.5.0",
     "minimist": "^1.2.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.1",
     "ng-sanitize": "0.0.2",
     "node": "^14.8.0",
     "npm": "^6.14.8",
