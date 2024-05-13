@@ -22,7 +22,7 @@
     "del": "^5.1.0",
     "flot": "^3.2.10",
     "font-awesome": "^4.7.0",
-    "gulp-cli": "^2.3.0",
+    "gulp-cli": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.5.1",
     "jquery-csv": "^1.0.11",
